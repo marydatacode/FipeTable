@@ -1,5 +1,3 @@
-markdown
-Copiar código
 # FipeTable
 
 ##  Sobre o projeto
